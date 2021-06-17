@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yogita  Darade
 - 👀 I’m interested in solving business problems using DataScience.
-- 🌱 I’m currently learning Datascience and Business Analytics.
+- 🌱 I’m currently studying Datascience and Business Analytics.
 - 📫 How to reach me www.linkedin.com/in/yogitadarade
 
 <!---
