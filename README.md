@@ -1,5 +1,5 @@
 ### 👋 Hi, There
-I am Yogita ,  A passionate learner and datascientist from Houston, Texas.
+I am Yogita , a passionate learner and Datascientist from Houston, Texas.
 
 
  
@@ -13,7 +13,7 @@ I am Yogita ,  A passionate learner and datascientist from Houston, Texas.
   
   **Languages and Tools:**  
   
-<img height="40" src="/asset/powerbi.png"><img height="40" src="/asset/Tableau.png"><img height="40" src="/asset/plsql.png"><img height="40" src="/asset/sql.png"><img height="40" src="/asset/jupyter.png">
+<img height="40" src="/asset/python.png"><img height="40" src="/asset/powerbi.png"><img height="40" src="/asset/Tableau.png"><img height="50" src="/asset/plsql.png"><img height="50" src="/asset/sql.png"><img height="40" src="/asset/jupyter.png">
 
 
 
