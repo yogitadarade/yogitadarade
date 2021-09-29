@@ -1,12 +1,12 @@
 ### 👋 Hi, There
-I am Yogita ,Data Analyst , Datascientist, and a passionate learner from Houston, Texas.
+I am Yogita ,passionate learner , a Data Analyst , a Datascientist.
 
 
  
 #### 💥About me 
 * Post Graduation in Datascience and Business Analytics from University of Texas, Austin.
 * 10 years of experience in Software Engineering and Project Management.
-* I believe in learning everyday.
+* I am self motivated individual and believe in learning everyday.
 * I’m interested in solving business problems using DataScience.
 * You can reach me  on [Linked](www.linkedin.com/in/yogitadarade)
 * You can check my notebooks on  [Kaggle](https://www.kaggle.com/yogidsba)
