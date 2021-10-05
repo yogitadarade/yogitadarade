@@ -4,7 +4,7 @@ I am Yogita ,passionate learner , a Data Analyst , a Datascientist.
 
  
 #### 💥About me 
-* Post Graduation in Datascience and Business Analytics from University of Texas, Austin.
+* Post Graduation Degree in Datascience and Business Analytics from The University of Texas, Austin.
 * 10 years of experience in Software Engineering and Project Management.
 * I am self motivated individual and believe in learning everyday.
 * I’m interested in solving business problems using DataScience.
