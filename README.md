@@ -8,7 +8,7 @@ I am Yogita ,passionate learner , a Data Analyst , a Datascientist.
 * 10 years of experience in Software Engineering and Project Management.
 * I am self motivated individual and believe in learning everyday.
 * I’m interested in solving business problems using DataScience.
-* You can reach me  on [Linked](www.linkedin.com/in/yogitadarade)
+* You can reach me  on [Linked In](www.linkedin.com/in/yogitadarade)
 * You can check my notebooks on  [Kaggle](https://www.kaggle.com/yogidsba)
 
   
