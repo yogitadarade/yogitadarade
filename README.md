@@ -1,6 +1,5 @@
-### 👋 Hi, There
-I am Yogita ,passionate learner , a Data Analyst , a Datascientist.
-
+### 👋 Hi there, My name is Yogita👋 
+I am passionate about combining data with statistics and programming to generate actionable insight and solve business problem.
 
  
 #### 💥About me 
