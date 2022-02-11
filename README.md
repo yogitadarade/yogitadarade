@@ -1,8 +1,10 @@
-### 👋 Hi there, My name is Yogita👋 
+### 👋 Hi there, My name is Yogita Darade👋 
 I am passionate about combining data with statistics and programming to generate actionable insight and solve business problem.
 
  
 #### 💥About me 
+
+* Data Engineer Intern at Cubic Corporation.
 * Post Graduation Degree in Datascience and Business Analytics from The University of Texas, Austin.
 * 10 years of experience in Software Engineering and Project Management.
 * I am self motivated individual and believe in learning everyday.
